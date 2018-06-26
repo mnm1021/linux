@@ -46,8 +46,9 @@ How to mount Open-Channel SSD to linux?
 특별한 문제가 없었다면 위 명령어를 통해 EXT4 파일 시스템을 해당 block device에 만들고 mount할 수 있습니다. 
  
 추가 정보가 필요한 경우, 아래 링크 등을 확인하시기 바랍니다. 
-http://openchannelssd.readthedocs.io/en/latest/ 
-https://www.usenix.org/conference/fast17/technical-sessions/presentation/bjorling 
+
+* http://openchannelssd.readthedocs.io/en/latest/ 
+* https://www.usenix.org/conference/fast17/technical-sessions/presentation/bjorling 
 
 Linux kernel
 ============
