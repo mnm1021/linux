@@ -1,9 +1,11 @@
-# Linux Kernel for Open-Channel SSD, CNEX SDK
+Linux Kernel for Open-Channel SSD, CNEX SDK
+==========================================
 
 CNEX Labs에서 CNEX SDK를 위한 작업이 처리된 branch를 메인으로 하고 있습니다.
 2018년 6월 26일을 기준으로 연구실에서 보유한 CNX-8800이 이 커널 위에서 정상 작동합니다.
 
-## How to install this kernel to PC?
+How to install this kernel to PC?
+--------------------------------
 
 git clone 또는 zip으로 압축된 폴더를 다운로드한 뒤, 커널 configuration을 실행합니다.
 
@@ -23,7 +25,8 @@ git clone 또는 zip으로 압축된 폴더를 다운로드한 뒤, 커널 confi
 	$ sudo make modules_install
 	$ sudo make install
 
-## How to mount Open-Channel SSD to linux?
+How to mount Open-Channel SSD to linux?
+--------------------------------------
 
 다음과 같이 디바이스를 검색합니다.
 
